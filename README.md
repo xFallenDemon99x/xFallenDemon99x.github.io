@@ -1,3 +1,12 @@
-# ProdByFallen
-Based on NicolaLC's "Nica-OS"
-(https://github.com/NicolaLC/nica-os)
+# nica-os
+
+site code used:
+
+https://nicolacastellani.devplaygrounds.org/
+
+## How to
+
+Inside the ./frontend dir run the following:
+
+1. npm install
+2. npm start
